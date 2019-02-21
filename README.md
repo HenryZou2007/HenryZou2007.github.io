@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>CSS BELIEVER</title>
+        <meta charset="utf-8"
         <style>
         
         h2 {
