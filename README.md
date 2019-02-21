@@ -44,7 +44,7 @@ Don't you tell me what you think that I can be<br>
 I'm the one at the sail, I'm the master of my sea, oh ooh<br>
 The master of my sea, oh ooh<br>
 
-    <p class="song-lyrics">And down came the Good Fairy <br>
+    
 I was broken from a young age<br>
 Taking my sulking to the masses<br>
 Write down my poems for the few<br>
@@ -54,7 +54,7 @@ Taking my message from the veins<br>
 Speaking my lesson from the brain<br>
 Seeing the beauty through the<br>
     
-    <p class="song-lyrics">I'll give you 3 chances. <br>
+    
 You made me a, you made me a believer, believer<br>
 (Pain, pain)<br>
 You break me down, you build me up, believer, believer<br>
