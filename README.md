@@ -97,7 +97,7 @@ My life, my love, my drive, it came from<br>
 (Pain)<br>
 You made me a, you made me a believer, believer<br>
 
-    <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj65PSP58vgAhVPIqwKHQM_D2gQjRx6BAgBEAU&url=https%3A%2F%2Fmajic.radio.com%2Fblogs%2Fjuliet%2Fimagine-dragons-lead-singer-dan-reynolds-has-something-say-about-shame&psig=AOvVaw3ltiNF7pDYCqcvHMGuitoQ&ust=1550803423299342" alt="RImagine dragons Lead Singer" width="400"> 
+    <img src="https://sa=i&source=images&cd=&ved=2ahUKEwj65PSP58vgAhVPIqwKHQM_D2gQjRx6BAgBEAU&url=https%3A%2F%2Fmajic.radio.com%2Fblogs%2Fjuliet%2Fimagine-dragons-lead-singer-dan-reynolds-has-something-say-about-shame&psig=AOvVaw3ltiNF7pDYCqcvHMGuitoQ&ust=1550803423299342" alt="Imagine dragons Lead Singer" width="400"> 
     
     <h3>Why Believer is such a great song</h3>
     
