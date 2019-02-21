@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8"
+        
         <style>
         
         h2 {
@@ -32,7 +31,7 @@
     
     <h2>Songs</h2>
     
-    <p class="song-lyrics">Little Bunny Foo Foo, <br>
+    <p class="song-lyrics">Believer Lyrics, <br>
 First things first<br>
 I'ma say all the words inside my head<br>
 I'm fired up and tired of the way that things have been, oh ooh<br>
