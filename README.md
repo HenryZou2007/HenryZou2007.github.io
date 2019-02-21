@@ -25,13 +25,20 @@
 
     <h1>All about Believer!</h1>
     
+    <ul>
+    <li><a href="#rabbits-info-heading">Basic Info</a></li>
+    <li><a href="#song-lyrics">SongLyrics</a></li>
+    <li><a href="#Believer-Reasons">Why Believer</a></li>
+    <li><a href="#three-songs">Famous imagine dragon songs</a></li>
+    </ul>
+    
     <h2 id="rabbits-info-heading">Basic info</h2>
     
     <p>Believer is a song made by imagine dragons and is one of my favorite songs.</p>
     
-    <h2>Songs</h2>
+    <h2> id="song-lyrics">Believer Lyric,</h2>
     
-    <p class="song-lyrics">Believer Lyrics, <br>
+    <p>
 First things first<br>
 I'ma say all the words inside my head<br>
 I'm fired up and tired of the way that things have been, oh ooh<br>
@@ -99,7 +106,7 @@ You made me a, you made me a believer, believer<br>
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
     
-    <h3>Why Believer is such a great song</h3>
+    <h3> id ="Believer-Reasons">Why Believer is such a great song</h3>
     
     <ul>
         <li>It's Upbeat!</li>
@@ -107,7 +114,7 @@ You made me a, you made me a believer, believer<br>
         <li>Motivational!</li>
     </ul>
     
-    <h3>Top 3 most famous songs by imagine dragons</h3>
+    <h3> id ="three-songs">Top 3 most famous songs by imagine dragons</h3>
     
     <ol>
         <li>Thunder</li>
