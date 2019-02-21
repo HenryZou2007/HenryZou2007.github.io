@@ -4,19 +4,15 @@
         <style>
         
         h2 {
-            color: pink;
-        }  
-        
-        #rabbits-info-heading {
-            background-color:green;
-        }
+            color:purple;
+        } 
         
         p {
-            color:blue;
+            color:red;
         }
         
         .song-lyrics {
-            background-color:Purple;
+            background-color:gray;
         }
         
         </style>
