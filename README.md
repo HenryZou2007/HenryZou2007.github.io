@@ -4,19 +4,19 @@
         <style>
         
         h2 {
-            color: rgb(0, 232, 15);
+            color: pink;
         }  
         
         #rabbits-info-heading {
-            background-color: purple;
+            background-color:green;
         }
         
         p {
-            color: rgb(191, 0, 255);
+            color:blue;
         }
         
         .song-lyrics {
-            background-color: yellow;
+            background-color:Purple;
         }
         
         </style>
@@ -97,14 +97,14 @@ My life, my love, my drive, it came from<br>
 (Pain)<br>
 You made me a, you made me a believer, believer<br>
 
-    <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203"> 
+    <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj65PSP58vgAhVPIqwKHQM_D2gQjRx6BAgBEAU&url=https%3A%2F%2Fmajic.radio.com%2Fblogs%2Fjuliet%2Fimagine-dragons-lead-singer-dan-reynolds-has-something-say-about-shame&psig=AOvVaw3ltiNF7pDYCqcvHMGuitoQ&ust=1550803423299342" alt="RImagine dragons Lead Singer" width="400"> 
     
-    <h3>Why rabbits make great pets</h3>
+    <h3>Why Believer is such a great song</h3>
     
     <ul>
-        <li>They're furry!</li>
-        <li>Great listeners!</li>
-        <li>Eat all your leftover carrots!</li>
+        <li>It's Upbeat!</li>
+        <li>Great singing!</li>
+        <li>Motivational!</li>
     </ul>
     
     <h3>Top 3 most famous songs by imagine dragons</h3>
