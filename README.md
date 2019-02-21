@@ -34,7 +34,7 @@
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     
-    <p>
+    <p class="song-lyrics">
 First things first<br>
 I'ma say all the words inside my head<br>
 I'm fired up and tired of the way that things have been, oh ooh<br>
