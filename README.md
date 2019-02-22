@@ -15,6 +15,12 @@
             background-color:gray;
         }
         
+        .dem-song-lyrics {
+            width:80%;
+            height:200px;
+            overflow:auto;
+      }
+        
         </style>
     </head>
     <body>
