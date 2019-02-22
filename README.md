@@ -29,9 +29,9 @@
     
     <ul>
     <li><a href="#rabbits-info-heading">Basic Info</a></li>
-    <li><a href="#song-lyrics">SongLyrics</a></li>
-    <li><a href="#Believer-Reasons">Why Believer</a></li>
-    <li><a href="#three-songs">Famous imagine dragon songs</a></li>
+    <li><a href="#song-lyrics">Why Believer</a></li>
+    <li><a href="#Believer-Reasons">Famous imagine dragon songs</a></li>
+    <li><a href="#three-songs">Song lyrics</a></li>
     </ul>
     
     <h2 id="rabbits-info-heading">Basic info</h2>
@@ -53,8 +53,6 @@
         <li>Demons</li>
         <li>Believer</li>
     </ol>
-     
-    
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     
