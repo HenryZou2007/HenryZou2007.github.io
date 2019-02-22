@@ -36,7 +36,7 @@
     <li><a href="#link">Link To Youtube video</a></li>
     
     </ul>
-   <img src="<img src="https://i.redd.it/z13wx0uhfwdy.png" 
+   <img src="https://i.redd.it/z13wx0uhfwdy.png" 
 alt = "Imagine dragons Believer" width="600"> 
  
     <h2 id="rabbits-info-heading">Basic info</h2>
