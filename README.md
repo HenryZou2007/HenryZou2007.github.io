@@ -26,7 +26,7 @@
     <body>
 
     <h1>All about Believer!</h1>
-    
+    <h3>Click on the name and teleport to there!</h3>
     <ul>
     <li><a href="#rabbits-info-heading">Basic Info</a></li>
     <li><a href="#song-lyrics">Why Believer</a></li>
@@ -55,7 +55,7 @@
     </ol>
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
-    
+    <h3>scroll down to see full lyrics!</h3>
     <div class="dem-song-lyrics"><p class="song-lyrics">
 First things first<br>
 I'ma say all the words inside my head<br>
@@ -123,10 +123,3 @@ My life, my love, my drive, it came from<br>
 You made me a, you made me a believer, believer<br>
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
-   
-    
-    
-    
-    
-    
-    
