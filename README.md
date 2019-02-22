@@ -19,11 +19,12 @@
             width:80%;
             height:200px;
             overflow:auto;
-      }
         
+      }
+        .whole-page {background:rgb(244,110,66);}
         </style>
     </head>
-    <body>
+    <body class="whole-page">
 
     <h1>All about Believer!</h1>
     <h3>Click on the name and teleport to there!</h3>
