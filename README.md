@@ -127,21 +127,6 @@ You made me a, you made me a believer, believer<br>
     
     
     
-    <h3 id ="Believer-Reasons">Why Believer is such a great song</h3>
-    
-    <ul>
-        <li>It's Upbeat!</li>
-        <li>Great singing!</li>
-        <li>Motivational!</li>
-    </ul>
-    
-    <h3 id ="three-songs">Top 3 most famous songs by imagine dragons</h3>
-    
-    <ol>
-        <li>Thunder</li>
-        <li>Demons</li>
-        <li>Believer</li>
-    </ol>
     
     
     
