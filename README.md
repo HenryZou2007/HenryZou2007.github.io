@@ -33,6 +33,8 @@
     <li><a href="#song-lyrics">Why Believer</a></li>
     <li><a href="#Believer-Reasons">Famous imagine dragon songs</a></li>
     <li><a href="#three-songs">Song lyrics</a></li>
+    <li><a href="#link">Link To Youtube video</a></li>
+    
     </ul>
     
     <h2 id="rabbits-info-heading">Basic info</h2>
@@ -123,7 +125,7 @@ My life, my love, my drive, it came from<br>
 (Pain)<br>
 You made me a, you made me a believer, believer<br>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=7wtfhZwyrcc">Click me for the Believer Youtube video</a>
+<h4 id="link"><a target="_blank" href="https://www.youtube.com/watch?v=7wtfhZwyrcc">Click me for the Believer Youtube video</a></h4> 
        
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
