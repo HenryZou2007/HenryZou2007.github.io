@@ -34,7 +34,7 @@
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     
-    <p class="song-lyrics">
+    <div class="dem-song-lyrics"><p class="song-lyrics">
 First things first<br>
 I'ma say all the words inside my head<br>
 I'm fired up and tired of the way that things have been, oh ooh<br>
@@ -101,7 +101,7 @@ My life, my love, my drive, it came from<br>
 You made me a, you made me a believer, believer<br>
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
-    
+</div>    
     <h3 id ="Believer-Reasons">Why Believer is such a great song</h3>
     
     <ul>
