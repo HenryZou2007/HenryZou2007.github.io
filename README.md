@@ -17,7 +17,7 @@
         
         .dem-song-lyrics {
             width:80%;
-            height:200px;
+            height:300px;
             overflow:auto;
         
       }
