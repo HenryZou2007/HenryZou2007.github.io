@@ -59,7 +59,7 @@ alt = "Imagine dragons Believer" width="600">
         <li>Believer</li>
     </ol>
     
-   <img src="<img src="https://i.ytimg.com/vi/7wtfhZwyrcc/maxresdefault.jpg" 
+   <img src="https://i.ytimg.com/vi/7wtfhZwyrcc/maxresdefault.jpg" 
 alt = "Imagine dragons Believer" width="550">  
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
