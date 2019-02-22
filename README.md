@@ -38,6 +38,24 @@
     
     <p>Believer is a song made by imagine dragons and is one of my favorite songs.</p>
     
+   <h3 id ="Believer-Reasons">Why Believer is such a great song</h3>
+    
+    <ul>
+        <li>It's Upbeat!</li>
+        <li>Great singing!</li>
+        <li>Motivational!</li>
+    </ul>
+    
+    <h3 id ="three-songs">Top 3 most famous songs by imagine dragons</h3>
+    
+    <ol>
+        <li>Thunder</li>
+        <li>Demons</li>
+        <li>Believer</li>
+    </ol>
+     
+    
+    
     <h2 id="song-lyrics">Believer Lyric,</h2>
     
     <div class="dem-song-lyrics"><p class="song-lyrics">
@@ -107,7 +125,7 @@ My life, my love, my drive, it came from<br>
 You made me a, you made me a believer, believer<br>
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
-</div>    
+   
     
     
     
