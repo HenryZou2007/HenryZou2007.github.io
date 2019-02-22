@@ -108,6 +108,9 @@ You made me a, you made me a believer, believer<br>
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
 </div>    
+    
+    
+    
     <h3 id ="Believer-Reasons">Why Believer is such a great song</h3>
     
     <ul>
