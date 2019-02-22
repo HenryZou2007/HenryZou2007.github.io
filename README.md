@@ -36,7 +36,9 @@
     <li><a href="#link">Link To Youtube video</a></li>
     
     </ul>
-    
+   <img src="<img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" 
+alt = "Imagine dragons Believer" width="600"> 
+ 
     <h2 id="rabbits-info-heading">Basic info</h2>
     
     <p>Believer is a song made by imagine dragons and is one of my favorite songs.</p>
@@ -56,6 +58,9 @@
         <li>Demons</li>
         <li>Believer</li>
     </ol>
+    
+   <img src="<img src="https://i.ytimg.com/vi/7wtfhZwyrcc/maxresdefault.jpg" 
+alt = "Imagine dragons Believer" width="550">  
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     <h3>scroll down to see full lyrics!</h3>
