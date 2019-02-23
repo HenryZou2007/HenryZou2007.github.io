@@ -134,3 +134,26 @@ You made me a, you made me a believer, believer<br>
        
 
     <img src="https://s3-us-west-1.amazonaws.com/s3.majic.com/s3fs-public/styles/delta__775x515/public/dan%20reynolds.jpg?itok=Fts6xHub&c=c7244398b4a6f36e3177a56cf562fda8" alt="Imagine dragons Lead Singer" width="400"> 
+
+<p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<h1 id="messi">All About Messi</h1>
+<h3>Click On a Topic To Teleport There!</h3>
+<ul>
+    <li><a href="#basic-info">Basic Info</a></li>
+    <li><a href="#reasons">Why Messi</a></li>
+    <li><a href="#trophies">Messi's Trophies</a></li>
+    <li><a href="#link-messi">Link To YouTube Video</a></li>
+    <li><a href="#my-favorite-players">My Top 5 Favorite Players of all time</a></li>
+</ul>
+
+
+<h2 id="basic-info">Basic Info</h2>
+<p><strong>Lionel Andrés Messi Cuccittini</strong> is an Argentine professional footballer who plays as a <em>forward</em> and <em>captains</em> both Spanish club Barcelona and the Argentina national team.
