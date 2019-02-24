@@ -27,6 +27,7 @@
     <body class="whole-page">
 
     <h1>All about Believer!</h1>
+    <h5>This is a work in progress please ignore the bugs!</h5>
     <h3>Click on the name and teleport to there!</h3>
     <ul>
     <li><a href="#rabbits-info-heading">Basic Info</a></li>
