@@ -157,4 +157,4 @@ You made me a, you made me a believer, believer<br>
 
 
 <h2 id="basic-info">Basic Info</h2>
-<p><strong>Lionel Andrés Messi Cuccittini</strong> is an Argentine professional footballer who plays as a <em>forward</em> and <em>captains</em> both Spanish club Barcelona and the Argentina national team.</p>s
+<p><strong>Lionel Andrés Messi Cuccittini</strong> is an Argentine professional footballer who plays as a <em>forward</em> and <em>captains</em> both Spanish club Barcelona and the Argentina national team.</p>
