@@ -15,19 +15,17 @@
             background-color:gray;
         }
         
-        .dem-song-lyrics {
-            width:80%;
-            height:300px;
-            overflow:auto;
         
-      }
+        
+      
         .whole-page {background:rgb(244,110,66);}
         </style>
     </head>
     <body class="whole-page">
 
+    
+    <h5>This is a work in progress, please ignore the bugs!</h5>
     <h1>All about Believer!</h1>
-    <h5>This is a work in progress please ignore the bugs!</h5>
     <h3>Click on the name and teleport to there!</h3>
     <ul>
     <li><a href="#rabbits-info-heading">Basic Info</a></li>
@@ -65,7 +63,7 @@ alt = "Imagine dragons Believer" width="550">
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     <h3>scroll down to see full lyrics!</h3>
-    <div class="dem-song-lyrics"><p class="song-lyrics">
+    
 First things first<br>
 I'ma say all the words inside my head<br>
 I'm fired up and tired of the way that things have been, oh ooh<br>
