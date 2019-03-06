@@ -18,7 +18,7 @@
         
         
       
-        .whole-page {background:rgb(244,110,66);}
+        .whole-page {background-color:red;}
         </style>
     </head>
     <body class="whole-page">
