@@ -59,7 +59,9 @@ alt = "Imagine dragons Believer" width="600">
     </ol>
     
    <img src="https://i.ytimg.com/vi/7wtfhZwyrcc/maxresdefault.jpg" 
-alt = "Imagine dragons Believer" width="550">  
+alt = "Imagine dragons Believer" width="550">
+   <img src="http://bscacad3.buffalostate.edu/~logaras01/images/fortniteguymove.gif"
+alt = "orange justice" width="660">
     
     <h2 id="song-lyrics">Believer Lyric,</h2>
     <h3>scroll down to see full lyrics!</h3>
