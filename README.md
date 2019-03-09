@@ -16,9 +16,9 @@
         }
         
         
-        
+       
       
-        .whole-page {background-color:red;}
+        .whole-page {background-color:green;}
         </style>
     </head>
     <body class="whole-page">
